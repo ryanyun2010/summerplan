@@ -1,0 +1,18 @@
+get up          : 7:00                                             swimming   : 30 min
+breakfast       : 20 min                                           basketball : 30 min
+beast           : 20 min
+play downstairs : 30 min
+reading         : 30 min
+break           : 10 min
+coding          : 30 min
+break           : 10 min
+khan math       : 30 min
+break           : 10 min
+computer        : until lunch
+lunch           : 30 min
+beast           : 30 min
+break           : 10 min
+computer        : 30 min
+break           : 10 min
+reading         : 30 min
+break           : 10 min
